@@ -1,0 +1,6 @@
+{
+  "name": "Kunci Keluarga",
+  "description": "Aplikasi Kontrol Orang Tua & Kunci Layar. Dibekali fitur pengaturan PIN orang tua, pengiriman izin waktu tambahan langsung dari hp anak, batas screen-time, log pengawasan aktivitas harian, serta pelacakan lokasi berbasis simulasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
